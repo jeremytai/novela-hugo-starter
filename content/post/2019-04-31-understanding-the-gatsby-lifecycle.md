@@ -1,7 +1,7 @@
 ---
 title: Understanding the Gatsby lifecycle with Kandie Gang
 date: 2019-05-01
-hero: "/media/fnd_my16_valmont_rival1x_feature_08_pf30bottombracket_720x48.jpg"
+hero: "/images/treksatpro-1072_toddfawcett_1440x714.jpg"
 excerpt: With the growing community interest in Gatsby, we hope to create more resources
   that make it easier for anyone to grasp the power of this incredible tool.
 timeToRead: 6
